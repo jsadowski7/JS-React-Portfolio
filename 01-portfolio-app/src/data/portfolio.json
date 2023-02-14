@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/images/HomepageSC.png",
+            "title": "MyLocalMusic",
+            "description": "Node.js, MySQL, Handlebars, JavaScript",
+            "url": "https://mylocalmusic.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/images/PawSafeHealthSC1.png",
+            "title": "PawSafe Health",
+            "description": "Express.js, Tailwind CSS, JavaScript",
+            "url": "https://mrjakeschultz.github.io/project-mayhem/"
+        },
+        {
+            "cover": "/portfolio/images/WeatherDashboardSC1.png",
+            "title": "Weather Dashboard",
+            "description": "Node.js, MySQL, Handlebars, JavaScript",
+            "url": "https://jsadowski7.github.io/Weather-Dashboard/"
+        },
+        {
+            "cover": "/portfolio/images/workdayschedulerSC.png",
+            "title": "Workday Scheduler",
+            "description": "Node.js, MySQL, Handlebars, JavaScript",
+            "url": "https://jsadowski7.github.io/Work-Day-Scheduler/"
+        }
+    ]
+}
