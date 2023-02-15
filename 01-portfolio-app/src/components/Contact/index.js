@@ -1,9 +1,9 @@
 import './index.scss';
-import { useRef } from 'react';
+// import { useRef } from 'react';
 // import emailjs from '@emailjs/browser'
 
 const Contact = () => {
-    const refForm = useRef
+    // const refForm = useRef
     // const sendEmail = (e) => {
     //     e.preventDefault()
 
