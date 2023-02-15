@@ -67,4 +67,12 @@
             color: #333;
         }
     }
+
+    .profile-pic {
+        display: flex;
+        justify-content: flex-end;
+        padding-right: 50px;
+        padding-top: 100px;
+        animation: fadeIn 2s 1.8s backwards;
+    }
 }

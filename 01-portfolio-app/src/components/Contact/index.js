@@ -1,10 +1,22 @@
 import './index.scss';
+import { useRef } from 'react';
+// import emailjs from '@emailjs/browser'
 
 const Contact = () => {
+    const refForm = useRef
+    // const sendEmail = (e) => {
+    //     e.preventDefault()
+
+    //     emailjs
+    //         .sendForm(
+    //             'gmail',
+
+    //         )
+    // }
     return (
         <div className='container contact-page'>
             <div className='text-zone'>
-                <h1>
+                <div><h1>
                     Contact Me
                 </h1>
                 <p>
@@ -13,8 +25,9 @@ const Contact = () => {
                    I am looking for experience wherever I can get it, so please don't hesitate
                    to reach out using the contact for below!
                 </p>
+                </div>
                 <div className='contact-form'>
-                    <form>
+                    {/* <form ref={refForm} onSubmit={sendEmail}> */}
                         <ul>
                             <li className='half'>
                                 <input type="text" name="Name" placeholder="Name" required />
@@ -46,7 +59,7 @@ const Contact = () => {
                                 <input type='submit' className='flat-button' value="SEND" />
                             </li>
                         </ul>
-                    </form>
+                    {/* </form> */}
                 </div>
             </div>
         </div>
