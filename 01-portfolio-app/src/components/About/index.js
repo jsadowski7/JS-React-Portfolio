@@ -1,9 +1,10 @@
 import './index.scss'
+
 // FA ICONS NOT LOADING GET HELP 56:49
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { 
-    faCoffee,
-} from '@fortawesome/fontawesome-free-solid';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import { 
+//     faCoffee,
+// } from '@fortawesome/fontawesome-free-solid';
 
 const About = () => {
 
@@ -27,6 +28,8 @@ const About = () => {
             jQuery, Bootstrap, Mongoose, and MongoDB
           </p>
         </div>
+
+
         {/* CODE FOR SPINNING CUBE WITH TECHNOLOGIES ON EACH SIDE */}
         {/* FA ICONS NOT WORKING / FUTURE DEVELOPMENT */}
         {/* <div className="stage-cube-cont">

@@ -1,10 +1,11 @@
 .contact-form {
     width: 100%;
-    margin-top: 20px;
+    margin-bottom: 400px;
 
     ul {
         padding: 0;
         margin: 0;
+        
         
 
         li {
@@ -32,11 +33,6 @@
             }
 
         }
-
-        // .text-zone {
-        //     display: flex;
-        //     justify-content: space-between;
-        // }
     }
 
     input[type='text'],
@@ -75,3 +71,4 @@
         border-radius: 4px;
     }
 }
+
