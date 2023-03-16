@@ -2,7 +2,7 @@
   "name": "01-portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jsadowski7/JS-React-Portfolio",
+  "homepage": "https://jsadowski7.github.io/JS-React-Portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@fortawesome/fontawesome-free-solid": "^5.0.13",
@@ -33,7 +33,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
