@@ -38,10 +38,47 @@
     animation-delay: 1s;
 }
 
+.container.resume-page {
+    
+    h1 {
+        font-size: 53px;
+            font-family: 'Coolvetica';
+            color: #d1d0a3;
+            font-weight: 400;
+            margin-top: 0;
+            position: relative;
+            margin-bottom: 40px;
+            left: 100px;
+            top: 50px;
+
+            &::before {
+                content: '<h1>';
+                font-family: 'La Belle Aurore';
+                font-size: 16px;
+                position: absolute;
+                margin-top: -10px;
+                left: -10px;
+                opacity: 0.5;
+                line-height: 16px;
+            }
+
+            &::after {
+                content: '<h1/>';
+                font-family: 'La Belle Aurore';
+                font-size: 16px;
+                line-height: 16px;
+                position: absolute;
+                left: -30px;
+                bottom: -20px;
+                margin-left: 20px;
+                opacity: 0.5;
+            }
+    }
+}
+
 .container.about-page, 
 .container.contact-page,
-.container.portfolio-page,
-.resume-page {
+.container.portfolio-page {
 
         h1 {
             font-size: 53px;
