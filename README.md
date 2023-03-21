@@ -26,6 +26,11 @@ Currently not accepting contributions to the repo.
 ## Mock-Up
 (![JS-React-Portfolio](\01-portfolio-app\src\assets\images\ReactPortfolio.png))
 
+## Application
+View the deployed app through GH Pages here: 
+
+``` https://jsadowski7.github.io/JS-React-Portfolio/ ```
+
 
 ## License
 Please see https://mit-license.org/ to get info about this license
