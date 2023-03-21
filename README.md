@@ -29,7 +29,7 @@ Currently not accepting contributions to the repo.
 ## Application
 View the deployed app through GH Pages here: 
 
-``` https://jsadowski7.github.io/JS-React-Portfolio/ ```
+https://jsadowski7.github.io/JS-React-Portfolio/ 
 
 
 ## License
