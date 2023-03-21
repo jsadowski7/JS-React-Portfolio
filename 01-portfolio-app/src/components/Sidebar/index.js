@@ -10,7 +10,7 @@ import {
 
 const Sidebar = () => (
     <div className='nav-bar'>
-        <Link className='logo' to='/'>
+        <Link className='logo' to='/JS-React-Portfolio'>
             <img src={LogoJ} alt='logo' />
         </Link>
         <nav>
