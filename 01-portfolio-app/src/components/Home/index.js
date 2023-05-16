@@ -61,7 +61,7 @@ const Home = () => {
                 strArray={jobArray}
                 idx={22} />
                 </h1>
-                <h2>Full-Stack Web Development / JavaScript, React, MySQL, jQuery, and more!</h2>
+                <h2>Full-Stack Web Development / JavaScript, React, MySQL, Node, AWS, and more!</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
             <div className='profile-pic'>
